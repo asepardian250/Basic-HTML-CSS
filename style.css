@@ -1,0 +1,13 @@
+elemen {
+    text-align: right;
+}
+
+h3, ol {
+    color: blueviolet;
+}
+
+legend {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 22px;
+  }
